@@ -1,9 +1,51 @@
-# 💫 About Me:
-🚀 Currently working on:<br>Building projects and mastering DSA with Java, actively solving problems on LeetCode and HackerRank.<br><br>🤝 Looking to collaborate:<br>With experienced developers to improve problem-solving skills and system design.<br><br>🌱 Currently learning:<br>Cloud Solution Architecture and advanced DSA in Java, aiming for FAANG-level roles.<br><br>💬 Ask me about:<br>Java, DSA, LeetCode strategies, backend projects, and cloud basics.<br><br>⚡ Fun fact:<br>I solve DSA problems daily—consistency is my superpower 🚀
+# Hi there, I'm Shvet Ghare 👋
+
+An ambitious **Backend & Cloud Engineer** specializing in Java, Distributed Systems, and Data Structures & Algorithms (DSA). I focus on building robust, scalable backend software and architecting efficient cloud infrastructure.
+
+---
+
+### 🚀 About Me
+
+- 💻 **Currently Working On:** Advanced Data Structures & Algorithms in Java and solving architectural problems on LeetCode/HackerRank.
+- 🎓 **Currently Learning:** Cloud Solution Architecture (AWS & Azure) and design patterns for microservices.
+- 🎯 **Career Goal:** Aiming for high-impact software engineering roles at FAANG-level organizations.
+- 🤝 **Looking to Collaborate:** On open-source backend systems, system design deep-dives, or performance engineering projects.
+
+---
+
+### 🛠️ Tech Stack
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shvetgharexx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shvetghare1234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shvetgharework@gmail.com) 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://shields.io) ![Dart](https://shields.io) ![C](https://shields.io) ![C++](https://shields.io) |
+| **Backend & Frameworks** | ![Node.js](https://shields.io) ![Express](https://shields.io) ![FastAPI](https://shields.io) ![Next.js](https://shields.io) |
+| **Cloud & DevOps** | ![AWS](https://shields.io) ![Azure](https://shields.io) ![Google Cloud](https://shields.io) ![Vercel](https://shields.io) ![Render](https://shields.io) |
+| **Databases** | ![MongoDB](https://shields.io) ![DynamoDB](https://shields.io) ![Firebase](https://shields.io) |
+| **Frontend & Mobile** | ![React](https://shields.io) ![React Native](https://shields.io) ![Flutter](https://shields.io) ![TailwindCSS](https://shields.io) |
+| **Tools & Testing** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![JWT](https://shields.io) ![Socket.io](https://shields.io) |
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+
+### 📊 GitHub Metrics
+
+<p align="left">
+  <img src="https://vercel.app" alt="Shvet's GitHub Stats" height="180px"/>
+  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shvetgharework@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://vercel.app" target="_blank">
+    <img src="https://shields.io" alt="Portfolio" />
+  </a>
+</p>
