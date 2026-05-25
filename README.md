@@ -1,7 +1,7 @@
 # Shvet Ghare
 
 ### Full-Stack Software Engineer
-Mumbai, India | shvetgharework@gmail.com | [LinkedIn](https://www.linkedin.com/in/shvetghare1234/) | [GitHub]([https://github.com](https://github.com/ShvetGhareWork/)) | [Portfolio](https://shvet.vercel.app)
+Mumbai, India | shvetgharework@gmail.com | [LinkedIn](https://www.linkedin.com/in/shvetghare1234/) | [GitHub]([https://github.com(https://github.com/ShvetGhareWork/)) | [Portfolio](https://shvet.vercel.app)
 
 ---
 
