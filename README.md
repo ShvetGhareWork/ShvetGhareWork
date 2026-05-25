@@ -1,109 +1,59 @@
-# Hi there, I'm Shvet Ghare 👋
+# Shvet Ghare
 
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Header Banner" />
-</p>
-
-An ambitious **Full-Stack Software Engineer** specializing in AI-integrated platforms, distributed microservices, and robust cloud infrastructure. I enjoy architecting scalable backend systems and optimizing user experiences.
+### Full-Stack Software Engineer
+Mumbai, India | shvetgharework@gmail.com | [LinkedIn](https://linkedin.com) | [GitHub](https://github.com) | [Portfolio](https://vercel.app)
 
 ---
 
-### 🚀 About Me
+## Profile Summary
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🎓 <b>Education:</b> Pursuing a Bachelor of Engineering in Computer Engineering at Universal College of Engineering (9.39 SGPA).</li>
-        <li>💡 <b>Core Focus:</b> Distributed systems, event-driven architectures, and building production-grade SaaS applications.</li>
-        <li>🏆 <b>Achievements:</b> Winner of the <b>CODEAUTOMATA VER. 2.0 Hackathon</b>.</li>
-        <li>🛠️ <b>Current Focus:</b> Advancing my skills in microservice observability and high-availability system design.</li>
-      </ul>
-    </td>
-    <td width="30%">
-      <img src="https://giphy.com" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+Full-Stack Software Engineer with hands-on experience building AI-integrated platforms, distributed microservices systems, and accessible web applications. Proficient across the MERN stack, Java Spring Boot, and production-grade cloud infrastructure.
 
 ---
 
-### 💻 Featured Projects
-
-#### 🌐 [Atlas — Inventory & Supply Chain Microservices Platform](https://github.com)
-<img src="https://unsplash.com" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;" alt="Supply Chain Microservices Banner" />
-
-- Architected **5 microservices** utilizing the **SAGA pattern**, **Kafka multi-broker HA**, and Optimistic Locking for distributed transaction consistency.
-- Implemented full observability engines using **Zipkin, Prometheus, and Grafana**, containerized with **Docker** and deployed via **GitHub Actions**.
-
-#### 📈 [NiveshIQ — AI Fintech Platform for Retail Investors](https://github.com)
-<img src="https://unsplash.com" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;" alt="Fintech AI Banner" />
-
-- Built a financial analytics suite featuring Portfolio X-Ray (XIRR, heatmaps) and a FIRE Planner powered by **LangChain + Claude Sonnet**.
-- Structured as a **Turborepo monorepo** decoupling a Next.js 14 frontend from a FastAPI backend for the ET AI Hackathon.
-
-#### 🎓 [EduAble — SpeciallyAbled Learning Platform](https://github.com)
-<img src="https://unsplash.com" width="100%" height="200px" style="object-fit: cover; border-radius: 8px;" alt="EdTech Learning Banner" />
-
-- Reduced caption setup times by **~80%** by engineering an automated processing pipeline with **n8n webhooks** and **FFmpeg**.
-- Developed the full LMS using the **MERN stack + Next.js** and integrated secure media streams using Google Cloud Storage.
-
----
-
-### 🛠️ Technical Ecosystem
+## Technical Expertise
 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| **Frameworks** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| **Cloud & DevOps** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| **Databases & Infra** | <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
-| **Observability & Tools**| <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> |
+| **Core Languages** | Java, JavaScript, Python |
+| **Frameworks & Runtimes** | Spring Boot, Next.js 14, React.js, Node.js, Express.js, FastAPI |
+| **Cloud & DevOps** | AWS (EC2, S3, IAM, Route 53), Docker, Kubernetes, Google Cloud Storage, GitHub Actions |
+| **Databases & Event Streams** | MongoDB, Redis, Apache Kafka |
+| **Observability & Tools** | Prometheus, Grafana, Zipkin, FFmpeg (WebAssembly), n8n, Git, Postman, Maven |
+| **APIs & Security** | RESTful API Design, JWT, Google OAuth (Passport.js), Razorpay |
 
 ---
 
-### 📜 Certifications
+## Featured Projects
 
-<p align="left">
-  <img src="https://shields.io" alt="AWS SAA" height="30px"/>
-  <img src="https://shields.io" alt="AWS CCP" height="30px"/>
-  <img src="https://shields.io" alt="Docker Badge" height="30px"/>
-  <img src="https://shields.io" alt="MongoDB Badge" height="30px"/>
-</p>
+### Atlas — Inventory & Supply Chain Microservices Platform
+* **Architecture:** Engineered 5 distributed microservices (API Gateway, Identity, Inventory, Order, AI Optimizer) employing the SAGA pattern and Optimistic Locking to guarantee distributed transaction consistency.
+* **Infrastructure & Resiliency:** Integrated an Apache Kafka multi-broker cluster for high-availability event streaming.
+* **Observability & CI/CD:** Built a full end-to-end monitoring system using Zipkin, Prometheus, and Grafana. Containerized the entire application ecosystem with Docker and automated deployments using GitHub Actions.
 
----
+### NiveshIQ — AI Fintech Platform for Retail Investors
+* **Core Features:** Built Portfolio X-Ray modules (XIRR calculations, fund overlap heatmaps), a Budget 2024-25 compliant Tax Wizard, and an interactive Financial Independence, Retire Early (FIRE) Planner.
+* **AI Integration:** Powered calculations and user insight logic using LangChain paired with Anthropic's Claude Sonnet, pulling real-time market feeds via yfinance and mfapi.
+* **Monorepo Architecture:** Implemented a Turborepo monorepo to decouple the Next.js frontend from the FastAPI backend for performance efficiency.
 
-### 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://vercel.app" alt="Shvet's GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
-</p>
+### EduAble — SpeciallyAbled Learning Platform
+* **Automation:** Engineered an automated processing pipeline utilizing n8n webhooks and FFmpeg to extract audio and generate accurate subtitle transcriptions (.srt files), cutting manual captioning time by approximately 80%.
+* **LMS Architecture:** Developed a comprehensive Learning Management System on Next.js, Node.js, MongoDB, and Google Cloud Storage to serve securely streamed accessible video assets.
 
 ---
 
-### 🌐 Connect with Me
+## Education & Certifications
 
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:shvetgharework@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://vercel.app" target="_blank">
-    <img src="https://shields.io" alt="Portfolio" />
-  </a>
-</p>
+* **Bachelor of Engineering in Computer Engineering** – Universal College of Engineering, Mumbai
+  * Academic Standing: 9.39 SGPA (Top 5-10% of cohort)
+* **AWS Certified Solutions Architect – Associate** (Udemy)
+* **AWS Cloud Practitioner Essentials**
+* **MongoDB Basics Certified**
 
-<p align="center">
-  <img src="https://vercel.app" width="100%" alt="Footer Banner" />
-</p>
+---
 
+## Core Focus & Collaboration Interests
+
+* **Active Areas of Study:** Microservices design patterns, system scalability, and high-throughput event-driven messaging networks.
+* **Open to Collaboration On:** Advanced open-source backend architectures, engineering performance tuning projects, or robust system architecture deep dives.
