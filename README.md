@@ -1,5 +1,4 @@
 # Shvet Ghare
-
 ### Full-Stack Software Engineer
 Mumbai, India | shvetgharework@gmail.com | [LinkedIn](https://www.linkedin.com/in/shvetghare1234/) | [GitHub](https://github.com/ShvetGhareWork/) | [Portfolio](https://shvet.vercel.app)
 
@@ -13,19 +12,23 @@ Full-Stack Software Engineer with hands-on experience building AI-integrated pla
 
 ## Technical Expertise
 
-
 | Category | Technologies |
 | :--- | :--- |
 | **Core Languages** | Java, JavaScript, Python |
 | **Frameworks & Runtimes** | Spring Boot, Next.js 14, React.js, Node.js, Express.js, FastAPI |
 | **Cloud & DevOps** | AWS (EC2, S3, IAM, Route 53), Docker, Kubernetes, Google Cloud Storage, GitHub Actions |
-| **Databases & Event Streams** | MongoDB, Redis, Apache Kafka |
+| **Databases & Event Streams** | PostgreSQL, MongoDB, Redis, Apache Kafka |
 | **Observability & Tools** | Prometheus, Grafana, Zipkin, FFmpeg (WebAssembly), n8n, Git, Postman, Maven |
 | **APIs & Security** | RESTful API Design, JWT, Google OAuth (Passport.js), Razorpay |
 
 ---
 
 ## Featured Projects
+
+### Ticketizer — High-Concurrency Distributed Ticket Booking System
+* **Architecture:** Engineered a distributed booking platform on Spring Boot (Java 21) and Next.js 15, implementing idempotency keys and distributed locking via Redis to prevent duplicate bookings under high concurrency.
+* **Event-Driven Pipeline:** Designed an Apache Kafka-based event pipeline to decouple booking confirmation, notification dispatch, and payment processing, ensuring reliable message delivery under load spikes.
+* **Data Layer:** Used PostgreSQL for transactional integrity with optimistic concurrency control, and Redis for sub-millisecond seat availability caching to minimise database contention.
 
 ### Atlas — Inventory & Supply Chain Microservices Platform
 * **Architecture:** Engineered 5 distributed microservices (API Gateway, Identity, Inventory, Order, AI Optimizer) employing the SAGA pattern and Optimistic Locking to guarantee distributed transaction consistency.
@@ -38,7 +41,7 @@ Full-Stack Software Engineer with hands-on experience building AI-integrated pla
 * **Monorepo Architecture:** Implemented a Turborepo monorepo to decouple the Next.js frontend from the FastAPI backend for performance efficiency.
 
 ### EduAble — SpeciallyAbled Learning Platform
-* **Automation:** Engineered an automated processing pipeline utilizing n8n webhooks and FFmpeg to extract audio and generate accurate subtitle transcriptions (.srt files), cutting manual captioning time by approximately 80%.
+* **Automation:** Engineered an automated processing pipeline utilising n8n webhooks and FFmpeg to extract audio and generate accurate subtitle transcriptions (.srt files), cutting manual captioning time by approximately 80%.
 * **LMS Architecture:** Developed a comprehensive Learning Management System on Next.js, Node.js, MongoDB, and Google Cloud Storage to serve securely streamed accessible video assets.
 
 ---
