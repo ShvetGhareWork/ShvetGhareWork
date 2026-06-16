@@ -23,29 +23,6 @@ Full-Stack Software Engineer with hands-on experience building AI-integrated pla
 
 ---
 
-## Featured Projects
-
-### Ticketizer — High-Concurrency Distributed Ticket Booking System
-* **Architecture:** Engineered a distributed booking platform on Spring Boot (Java 21) and Next.js 15, implementing idempotency keys and distributed locking via Redis to prevent duplicate bookings under high concurrency.
-* **Event-Driven Pipeline:** Designed an Apache Kafka-based event pipeline to decouple booking confirmation, notification dispatch, and payment processing, ensuring reliable message delivery under load spikes.
-* **Data Layer:** Used PostgreSQL for transactional integrity with optimistic concurrency control, and Redis for sub-millisecond seat availability caching to minimise database contention.
-
-### Atlas — Inventory & Supply Chain Microservices Platform
-* **Architecture:** Engineered 5 distributed microservices (API Gateway, Identity, Inventory, Order, AI Optimizer) employing the SAGA pattern and Optimistic Locking to guarantee distributed transaction consistency.
-* **Infrastructure & Resiliency:** Integrated an Apache Kafka multi-broker cluster for high-availability event streaming.
-* **Observability & CI/CD:** Built a full end-to-end monitoring system using Zipkin, Prometheus, and Grafana. Containerized the entire application ecosystem with Docker and automated deployments using GitHub Actions.
-
-### NiveshIQ — AI Fintech Platform for Retail Investors
-* **Core Features:** Built Portfolio X-Ray modules (XIRR calculations, fund overlap heatmaps), a Budget 2024-25 compliant Tax Wizard, and an interactive Financial Independence, Retire Early (FIRE) Planner.
-* **AI Integration:** Powered calculations and user insight logic using LangChain paired with Anthropic's Claude Sonnet, pulling real-time market feeds via yfinance and mfapi.
-* **Monorepo Architecture:** Implemented a Turborepo monorepo to decouple the Next.js frontend from the FastAPI backend for performance efficiency.
-
-### EduAble — SpeciallyAbled Learning Platform
-* **Automation:** Engineered an automated processing pipeline utilising n8n webhooks and FFmpeg to extract audio and generate accurate subtitle transcriptions (.srt files), cutting manual captioning time by approximately 80%.
-* **LMS Architecture:** Developed a comprehensive Learning Management System on Next.js, Node.js, MongoDB, and Google Cloud Storage to serve securely streamed accessible video assets.
-
----
-
 ## Education & Certifications
 
 * **Bachelor of Engineering in Computer Engineering** – Universal College of Engineering, Mumbai
