@@ -1,22 +1,3 @@
-<div align="center">
-
-<h3><code>shvet@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution Heatmap" />
-
-<br><br>
-
-<h3><code>shvet@github ~ $ whoami</code></h3>
-<table>
-  <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII Portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Neofetch Info Card" /></td>
-  </tr>
-</table>
-
-</div>
-
----
-
 # Shvet Ghare
 ### Full-Stack Software Engineer
 Mumbai, India | shvetgharework@gmail.com | [LinkedIn](https://www.linkedin.com/in/shvetghare1234/) | [GitHub](https://github.com/ShvetGhareWork/) | [Portfolio](https://shvet.vercel.app)
