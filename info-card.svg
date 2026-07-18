@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 200" width="490" height="200">
+<style>
+  .txt { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 14px; }
+  .key { fill: #8b949e; font-weight: 600; }
+  @keyframes slide { from { opacity: 0; transform: translateX(-15px); } to { opacity: 1; transform: translateX(0); } }
+  .anim { opacity: 0; animation: slide 0.5s ease-out forwards; }
+</style>
+<text x="20" y="30" class="txt anim" style="animation-delay: 0.0s"><tspan class="key">shvet@github ~ $</tspan> <tspan fill="#58a6ff">whoami</tspan></text>
+<text x="20" y="58" class="txt anim" style="animation-delay: 0.15s"><tspan class="key">Role:</tspan> <tspan fill="#c9d1d9">Full-Stack Software Engineer</tspan></text>
+<text x="20" y="86" class="txt anim" style="animation-delay: 0.3s"><tspan class="key">Stack:</tspan> <tspan fill="#c9d1d9">Java · React · Node.js · AWS</tspan></text>
+<text x="20" y="114" class="txt anim" style="animation-delay: 0.44999999999999996s"><tspan class="key">Now:</tspan> <tspan fill="#c9d1d9">AI platforms & microservices</tspan></text>
+<text x="20" y="142" class="txt anim" style="animation-delay: 0.6s"><tspan class="key">Education:</tspan> <tspan fill="#c9d1d9">B.E. CSE · 9.39 SGPA · Top 5%</tspan></text>
+<text x="20" y="170" class="txt anim" style="animation-delay: 0.75s"><tspan class="key">Certs:</tspan> <tspan fill="#c9d1d9">AWS SAA · Cloud Practitioner</tspan></text>
+</svg>
